@@ -5,6 +5,7 @@ A list of cryptocurrency APIs for hackathons, weekenders &amp; side-projects
 * https://blockchain.info/api - "Use Blockchain's APIs at no cost to help you start building bitcoin apps."
 * https://www.kraken.com/help/api - "Bitcoin and ethereum trading, leveraged margin trading, and dark pool. "
 * https://www.coinigy.com/bitcoin-api/ - "Live streaming bitcoin market & blockchain data"
+* https://bitcointy.herokuapp.com/ - "See the value of a Bitcoin according to different sources with a simple JSON API."
 * https://block.io/docs - "Use our easy Basic MultiSig API to build secure wallets for your applications. "
 * https://www.cryptonator.com/api - "Cryptonator provides unique volume of cryptocurrency exchange rates data"
 * https://bitpay.com/api - "Cryptographically Secure RESTful Interface"
